@@ -1,39 +1,29 @@
-# Nord Theme for Zen Editor
+# Zen Dark Theme
 
-A dark blue theme inspired by arctic ice and the Nord color palette.
-
-## Installation
-
-### From GitHub
-
-1. Open Zen Editor
-2. Press Ctrl+Shift+E to open the Extensions tab
-3. Click "Install from GitHub" 
-4. Paste the GitHub URL to this theme
-5. Click "Apply" once installed
-
-### From Directory
-
-1. Clone or download this repository
-2. Open Zen Editor
-3. Press Ctrl+Shift+E to open the Extensions tab
-4. Click "Install from Folder"
-5. Navigate to the downloaded theme directory
-6. Click "Apply" once installed
+A beautiful dark theme for Zen Editor that's easy on the eyes for long coding sessions.
 
 ## Preview
 
-Nord theme features a clean dark blue interface that's easy on the eyes for long coding sessions.
+![Theme Preview](preview.png)
 
-## Colors
+## Installation
 
-The theme uses the Nord color palette:
+1. In Zen Editor, open the command palette (Ctrl+Shift+P)
+2. Select "Manage Extensions"
+3. Click "Install dev extension"
+4. Enter the repository URL: https://github.com/yourusername/zen-dark-theme
 
-- Polar Night (dark blues for backgrounds)
-- Snow Storm (whites for text)
-- Frost (light blues for highlights)
-- Aurora (colorful accents)
+## Features
+
+- Dark color scheme optimized for readability
+- Subtle syntax highlighting
+- Improved contrast for UI elements
+- Clean and minimal interface elements
+
+## Customization
+
+Feel free to customize this theme by forking the repository and adjusting the color variables in the theme.json file.
 
 ## License
 
-MIT License
+MIT

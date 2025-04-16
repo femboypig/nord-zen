@@ -1,0 +1,12 @@
+{
+  "id": "neon-theme",
+  "name": "Neon Theme",
+  "author": "Zen Team",
+  "version": "1.0.0",
+  "description": "Яркая неоновая тема с неоновыми акцентами - тестовое расширение",
+  "type": "theme",
+  "theme": {
+    "name": "neon",
+    "file": "theme.json"
+  }
+}

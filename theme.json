@@ -1,0 +1,87 @@
+{
+  "manifest": {
+    "name": "nord",
+    "author": "Zen Editor Community",
+    "version": "1.0.0",
+    "description": "Nord theme for Zen Editor - A dark blue theme inspired by arctic ice"
+  },
+  "variables": {
+    "body-bg": "#2e3440",
+    "body-text": "#d8dee9",
+    
+    "titlebar-bg": "#3b4252",
+    "titlebar-border": "#2e3440",
+    "titlebar-text": "#e5e9f0",
+    "window-control-hover-bg": "#434c5e",
+    "window-control-close-hover-bg": "#bf616a",
+    
+    "sidebar-bg": "#2e3440",
+    "sidebar-border": "#3b4252",
+    
+    "tabs-container-bg": "#3b4252",
+    "tab-border": "#2e3440",
+    "tab-active-bg": "#2e3440",
+    "tab-text": "#e5e9f0",
+    "tab-unsaved-indicator": "#88c0d0",
+    
+    "scrollbar-thumb": "#4c566a",
+    "scrollbar-thumb-translucent": "#4c566a8f",
+    
+    "subtitle-text": "#d8dee9",
+    
+    "option-button-bg": "transparent",
+    "option-button-text": "#e5e9f0",
+    "option-button-hover-bg": "rgba(143, 188, 187, 0.1)",
+    "option-button-active-bg": "rgba(143, 188, 187, 0.2)",
+    
+    "settings-panel-bg": "#3b4252",
+    "settings-panel-border": "#434c5e",
+    
+    "checkbox-border": "#4c566a",
+    "checkbox-bg": "#2e3440",
+    "checkbox-checked-bg": "#88c0d0",
+    "checkbox-label-text": "#e5e9f0",
+    
+    "downbar-bg": "#3b4252",
+    "downbar-border": "#2e3440",
+    "downbar-active-icon": "#88c0d0",
+    "downbar-icon-hover-filter": "brightness(1.2)",
+    "downbar-icon-active-filter": "invert(67%) sepia(13%) saturate(754%) hue-rotate(157deg) brightness(94%) contrast(89%)",
+    
+    "icon-filter": "invert(0.9)",
+    "icon-hover-filter": "invert(0.9) brightness(1.2)",
+    "filetree-icon-filter": "invert(0.9) brightness(1.1)",
+    
+    "command-palette-bg": "#3b4252",
+    "command-palette-shadow": "rgba(0, 0, 0, 0.5)",
+    "command-palette-input-border": "#4c566a",
+    "command-palette-input-bg": "#434c5e",
+    "command-item-hover-bg": "#434c5e",
+    
+    "dialog-bg": "#3b4252",
+    "dialog-shadow": "rgba(0, 0, 0, 0.5)",
+    "dialog-header-bg": "#3b4252",
+    "dialog-header-border": "#4c566a",
+    "dialog-footer-bg": "#3b4252",
+    "dialog-footer-border": "#4c566a",
+    
+    "reorganize-button-bg": "#434c5e",
+    "reorganize-button-border": "#4c566a",
+    "reorganize-button-hover-bg": "#4c566a",
+    "reorganize-button-active-bg": "#5e81ac",
+    
+    "overlay-bg": "rgba(26, 27, 38, 0.8)",
+    
+    "recent-projects-header-text": "#d8dee9",
+    "recent-project-item-text": "#e5e9f0",
+    "recent-project-item-hover-bg": "rgba(143, 188, 187, 0.1)",
+    "recent-project-item-active-bg": "rgba(143, 188, 187, 0.2)",
+    
+    "file-tree-item-hover-bg": "rgba(143, 188, 187, 0.1)",
+    "file-tree-item-active-bg": "rgba(143, 188, 187, 0.2)",
+    
+    "git-branch-text": "#a3be8c",
+    "tab-arrow-inactive-opacity": "0.6",
+    "tab-arrow-active-opacity": "1"
+  }
+}
